@@ -1,5 +1,5 @@
 ### What does this maven plugin do?
-#####This maven plugin helps to make a clone of the project in the specified module
+This maven plugin helps to make a clone of the project in the specified module
 #
 #### Build project: 
 clean install
