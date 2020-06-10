@@ -1,4 +1,4 @@
-package com.github.clonator;
+package org.my.clonator;
 
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugins.annotations.Mojo;
