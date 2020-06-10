@@ -1,7 +1,8 @@
-# How to start
-
+### What does this maven plugin do?
+#####This maven plugin helps to make a clone of the project in the specified module
+#
 #### Build project: 
-select profiler 'default' and follow up clean install
+clean install
 
 #### after compilation add dependency
        
