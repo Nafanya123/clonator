@@ -3,7 +3,7 @@ This maven plugin helps to make a clone of the project in the specified module
 #
 #### Build project: 
 clean install
-
+#
 #### after compilation add dependency
        
     <plugins>
@@ -25,8 +25,7 @@ clean install
             </executions>
         </plugin>
     </plugins>
-
-
+#
 #### xml tags
    
     <urlRepo>link de repository</urlRepo>
